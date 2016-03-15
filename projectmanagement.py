@@ -198,7 +198,7 @@ template_list = ["{1}'s {2} project is {3}% funded! It only needs ${4}! {5}",
                 "Today's easy win: the {2} project is just ${4} from funding! {5}",
                 "Hey champs, have you seen this one in {7}, {8}? {5} Just ${4} to go!",
                 "{1}'s {2} project only needs ${4}! {5}",
-                "Be a champ for {7}, {8} by funding the {2} project!!",
+                "Be a champ for {7}, {8} by funding the {2} project!! {5}",
                 "You can help out @DonorsChoose right now by tossing the {2} project in {7}, {8} just ${4}! {5}",
                 "The {2} project is already {3}% funded! {5} Think you can donate the other ${4}?",
                 "Your chance to be a champ: {5} The {2} project is just ${4} from funding!"]
