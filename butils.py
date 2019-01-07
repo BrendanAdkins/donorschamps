@@ -3,5 +3,5 @@
 
 def debug_print(text):
     """Print text if debugging mode is on"""
-    if True:
+    if False:
         print text
